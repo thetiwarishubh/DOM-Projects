@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chai Code JS DOM Challenges
 
 ### 🚨 Important Instructions
@@ -87,3 +88,7 @@
 - Display navigation dots (indicators) below the carousel.
 - The indicator for the active image should be highlighted.
 - Clicking an indicator should navigate directly to the corresponding image.
+=======
+# DOM-Projects
+ChaiCohort DOM Project 1-5
+>>>>>>> acf8640ce9858dcfad24fec2f95c16bf78b1e29e
